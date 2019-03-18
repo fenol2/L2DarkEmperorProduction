@@ -3,290 +3,735 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+
+	<!-- Accessories -->
+
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Draconic Leather Armor -->
-		<production count="1" id="6379" />
-		<!-- Draconic Leather Boots -->
-		<production count="1" id="6381" />
-		<!-- Draconic Leather Gloves -->
-		<production count="1" id="6380" />
-		<!-- Draconic Leather Helmet -->
-		<production count="1" id="6382" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="5808" /> <!-- Party Mask -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Imperial Crusader Breastplate -->
-		<production count="1" id="6373" />
-		<!-- Imperial Crusader Gaiters -->
-		<production count="1" id="6374" />
-		<!-- Imperial Crusader Gauntlets -->
-		<production count="1" id="6375" />
-		<!-- Imperial Crusader Boots -->
-		<production count="1" id="6376" />
-		<!-- Imperial Crusader Helmet -->
-		<production count="1" id="6378" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="6394" /> <!-- Red Party Mask -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Major Arcana Robe -->
-		<production count="1" id="6383" />
-		<!-- Major Arcana Gloves -->
-		<production count="1" id="6384" />
-		<!-- Major Arcana Boots -->
-		<production count="1" id="6385" />
-		<!-- Major Arcana Circlet -->
-		<production count="1" id="6386" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="6843" /> <!-- Cat Ears -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="5000000" id="57" />
-		<!-- Imperial Crusader Shield -->
-		<production count="1" id="6377" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="6844" /> <!-- Lady's Hair Pin -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="5000000" id="57" />
-		<!-- Arcana Sigil -->
-		<production count="1" id="12811" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="6845" /> <!-- Pirate's Eye Patch -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Breastplate -->
-		<production count="1" id="9416" />
-		<!-- Dynasty Gaiters -->
-		<production count="1" id="9421" />
-		<!-- Dynasty Helmet -->
-		<production count="1" id="9422" />
-		<!-- Dynasty Gauntlets -->
-		<production count="1" id="9423" />
-		<!-- Dynasty Boots -->
-		<production count="1" id="9424" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="6846" /> <!-- Monocle -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Breastplate -->
-		<production count="1" id="9420" />
-		<!-- Dynasty Gaiters -->
-		<production count="1" id="9421" />
-		<!-- Dynasty Helmet -->
-		<production count="1" id="9422" />
-		<!-- Dynasty Gauntlets -->
-		<production count="1" id="9423" />
-		<!-- Dynasty Boots -->
-		<production count="1" id="9424" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7059" /> <!-- Golden Festival Mask -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Breastplate -->
-		<production count="1" id="9419" />
-		<!-- Dynasty Gaiters -->
-		<production count="1" id="9421" />
-		<!-- Dynasty Helmet -->
-		<production count="1" id="9422" />
-		<!-- Dynasty Gauntlets -->
-		<production count="1" id="9423" />
-		<!-- Dynasty Boots -->
-		<production count="1" id="9424" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7060" /> <!-- Tateossian Hairband -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Breastplate -->
-		<production count="1" id="9417" />
-		<!-- Dynasty Gaiters -->
-		<production count="1" id="9421" />
-		<!-- Dynasty Helmet -->
-		<production count="1" id="9422" />
-		<!-- Dynasty Gauntlets -->
-		<production count="1" id="9423" />
-		<!-- Dynasty Boots -->
-		<production count="1" id="9424" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7680" /> <!-- Raccoon Ears -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Breastplate -->
-		<production count="1" id="9418" />
-		<!-- Dynasty Gaiters -->
-		<production count="1" id="9421" />
-		<!-- Dynasty Helmet -->
-		<production count="1" id="9422" />
-		<!-- Dynasty Gauntlets -->
-		<production count="1" id="9423" />
-		<!-- Dynasty Boots -->
-		<production count="1" id="9424" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7681" /> <!-- Outlaw's Eyepatch -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Leather Armor -->
-		<production count="1" id="9425" />
-		<!-- Dynasty Leather Leggings -->
-		<production count="1" id="9428" />
-		<!-- Dynasty Leather Helmet -->
-		<production count="1" id="9429" />
-		<!-- Dynasty Leather Gloves -->
-		<production count="1" id="9430" />
-		<!-- Dynasty Leather Boots -->
-		<production count="1" id="9431" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7682" /> <!-- Maiden's Hairpin -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Leather Armor -->
-		<production count="1" id="9427" />
-		<!-- Dynasty Leather Leggings -->
-		<production count="1" id="9428" />
-		<!-- Dynasty Leather Helmet -->
-		<production count="1" id="9429" />
-		<!-- Dynasty Leather Gloves -->
-		<production count="1" id="9430" />
-		<!-- Dynasty Leather Boots -->
-		<production count="1" id="9431" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7683" /> <!-- Rabbit Ears -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Leather Armor -->
-		<production count="1" id="9426" />
-		<!-- Dynasty Leather Leggings -->
-		<production count="1" id="9428" />
-		<!-- Dynasty Leather Helmet -->
-		<production count="1" id="9429" />
-		<!-- Dynasty Leather Gloves -->
-		<production count="1" id="9430" />
-		<!-- Dynasty Leather Boots -->
-		<production count="1" id="9431" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7694" /> <!-- Noblesse Tiara -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Leather Armor -->
-		<production count="1" id="10168" />
-		<!-- Dynasty Leather Leggings -->
-		<production count="1" id="9428" />
-		<!-- Dynasty Leather Helmet -->
-		<production count="1" id="9429" />
-		<!-- Dynasty Leather Gloves -->
-		<production count="1" id="9430" />
-		<!-- Dynasty Leather Boots -->
-		<production count="1" id="9431" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7695" /> <!-- Forget-me-not Hairpin -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Leather Armor -->
-		<production count="1" id="10127" />
-		<!-- Dynasty Leather Leggings -->
-		<production count="1" id="9428" />
-		<!-- Dynasty Leather Helmet -->
-		<production count="1" id="9429" />
-		<!-- Dynasty Leather Gloves -->
-		<production count="1" id="9430" />
-		<!-- Dynasty Leather Boots -->
-		<production count="1" id="9431" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7696" /> <!-- Daisy Hairpin -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Leather Armor -->
-		<production count="1" id="10214" />
-		<!-- Dynasty Leather Leggings -->
-		<production count="1" id="9428" />
-		<!-- Dynasty Leather Helmet -->
-		<production count="1" id="9429" />
-		<!-- Dynasty Leather Gloves -->
-		<production count="1" id="9430" />
-		<!-- Dynasty Leather Boots -->
-		<production count="1" id="9431" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7836" /> <!-- Santa's Hat -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Tunic -->
-		<production count="1" id="9432" />
-		<!-- Dynasty Stockings -->
-		<production count="1" id="9437" />
-		<!-- Dynasty Circlet -->
-		<production count="1" id="9438" />
-		<!-- Dynasty Gloves -->
-		<production count="1" id="9439" />
-		<!-- Dynasty Shoes -->
-		<production count="1" id="9440" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7837" /> <!-- Sayha's White Mask -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Tunic -->
-		<production count="1" id="9434" />
-		<!-- Dynasty Stockings -->
-		<production count="1" id="9437" />
-		<!-- Dynasty Circlet -->
-		<production count="1" id="9438" />
-		<!-- Dynasty Gloves -->
-		<production count="1" id="9439" />
-		<!-- Dynasty Shoes -->
-		<production count="1" id="9440" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7839" /> <!-- Gran Kain's Black Mask -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Tunic -->
-		<production count="1" id="9433" />
-		<!-- Dynasty Stockings -->
-		<production count="1" id="9437" />
-		<!-- Dynasty Circlet -->
-		<production count="1" id="9438" />
-		<!-- Dynasty Gloves -->
-		<production count="1" id="9439" />
-		<!-- Dynasty Shoes -->
-		<production count="1" id="9440" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7841" /> <!-- Racoon Ears -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Tunic -->
-		<production count="1" id="9436" />
-		<!-- Dynasty Stockings -->
-		<production count="1" id="9437" />
-		<!-- Dynasty Circlet -->
-		<production count="1" id="9438" />
-		<!-- Dynasty Gloves -->
-		<production count="1" id="9439" />
-		<!-- Dynasty Shoes -->
-		<production count="1" id="9440" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7842" /> <!-- Cat Ears -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Dynasty Tunic -->
-		<production count="1" id="9435" />
-		<!-- Dynasty Stockings -->
-		<production count="1" id="9437" />
-		<!-- Dynasty Circlet -->
-		<production count="1" id="9438" />
-		<!-- Dynasty Gloves -->
-		<production count="1" id="9439" />
-		<!-- Dynasty Shoes -->
-		<production count="1" id="9440" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7843" /> <!-- Pirate's Eyepatch -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="7000000" id="57" />
-		<!-- Dynasty Shield -->
-		<production count="1" id="9441" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7844" /> <!-- Monocle -->
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="7000000" id="57" />
-		<!-- Dynasty Sigil -->
-		<production count="1" id="12812" />
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7845" /> <!-- Outlaw's Eyepatch -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7846" /> <!-- Maiden's Hairpin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7847" /> <!-- Lady's Hairpin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7848" /> <!-- Forget-me-not Hairpin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="7849" /> <!-- Daisy Hairpin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8177" /> <!-- Raid Challenger's Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8178" /> <!-- Raid Adventurer's Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8179" /> <!-- Raid Master's Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8180" /> <!-- Circlet of Ice Fairy Sirra -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8181" /> <!-- Academy Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8184" /> <!-- Party Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8185" /> <!-- Feathered Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8186" /> <!-- Artisan's Goggles -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8187" /> <!-- Demon Horns -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8188" /> <!-- Little Angel Wings -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8189" /> <!-- Fairy Antennae -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8552" /> <!-- Mask of Spirits -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8557" /> <!-- Blue Party Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8559" /> <!-- Diadem -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8560" /> <!-- Teddy Bear Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8561" /> <!-- Piggy Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8562" /> <!-- Jester Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8563" /> <!-- Wizard Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8564" /> <!-- Dapper Cap -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8565" /> <!-- Romantic Chapeau -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8566" /> <!-- Iron Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8567" /> <!-- Valakas Slayer Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8568" /> <!-- Antharas Slayer Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8569" /> <!-- Half Face Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8660" /> <!-- Demon Horns -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8661" /> <!-- Mask of Spirits -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8910" /> <!-- Black Feather Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8912" /> <!-- Single Stem Flower -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8913" /> <!-- Butterfly Hairpin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8914" /> <!-- Luxurious Gold Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8915" /> <!-- Luxurious Silver Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8916" /> <!-- Eye Patch -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8917" /> <!-- Goddess Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8918" /> <!-- Leather Cap -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8919" /> <!-- First Mate's Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8920" /> <!-- Angel Halo -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8921" /> <!-- Demon Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8922" /> <!-- Pirate Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8923" /> <!-- Scar -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8936" /> <!-- Santa's Antlers -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8947" /> <!-- L2day - Rabbit Ears -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8948" /> <!-- L2day - Little Angel Wings -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8949" /> <!-- L2day - Fairy Antennae -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8950" /> <!-- L2day - Feathered Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="8951" /> <!-- L2day - Artisan's Goggles -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="9138" /> <!-- Santa's Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="9158" /> <!-- Gold Circlet of Redemption -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="9159" /> <!-- Silver Circlet of Salvation -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="9160" /> <!-- Pig Wrangler's Cap -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10176" /> <!-- White Half Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10177" /> <!-- Black Half Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10240" /> <!-- Bird Nest -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10241" /> <!-- Purple Viking Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10242" /> <!-- Golden Viking Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10243" /> <!-- Panda Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10244" /> <!-- White Sheep Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10245" /> <!-- Black Sheep Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10246" /> <!-- Frog Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10247" /> <!-- Fish Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10248" /> <!-- Straw Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10249" /> <!-- Chicken Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10251" /> <!-- Medieval Party Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10617" /> <!-- Ant Hat - Year 2008 -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10618" /> <!-- Ol Mahum Hat - Year 2008 -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="10619" /> <!-- Wolf Hat - Year 2008 -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12372" /> <!-- Monkey Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12373" /> <!-- Pig Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12781" /> <!-- Ol Mahum Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12782" /> <!-- Kat the Cat Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12783" /> <!-- Feline Queen Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12784" /> <!-- Ant Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12785" /> <!-- Wolf Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12786" /> <!-- Monster Eye Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12787" /> <!-- Brown Bear Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12788" /> <!-- Fungus Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12789" /> <!-- Skull Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12790" /> <!-- Ornithomimus Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12791" /> <!-- Feline King Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="12792" /> <!-- Kai the Cat Hat - 30-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13058" /> <!-- Silenos Hair Accessory -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13234" /> <!-- Varka Karm (used by Varka Silenos) -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13235" /> <!-- Ketra Karm (used by Ketra Orcs) -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13236" /> <!-- Bronze Kamaloka Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13237" /> <!-- Silver Kamaloka Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13238" /> <!-- Gold Kamaloka Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13239" /> <!-- Kat the Cat Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13240" /> <!-- Feline Queen Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13241" /> <!-- Monster Eye Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13242" /> <!-- Brown Bear Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13243" /> <!-- Fungus Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13244" /> <!-- Skull Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13245" /> <!-- Ornithomimus Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13246" /> <!-- Feline King Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13247" /> <!-- Kai the Cat Hat - 7-day limited period -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13415" /> <!-- Frog Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13416" /> <!-- Chicken Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13416" /> <!-- Chicken Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13488" /> <!-- Birthday Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13489" /> <!-- Halloween Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13490" /> <!-- Arrow-Pierced Apple -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13491" /> <!-- Popped-Out Eye -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13492" /> <!-- Graduation Cap -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13493" /> <!-- Refined Carnival Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13494" /> <!-- Refined Angel Ring -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13495" /> <!-- Refined Devil Horn -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13496" /> <!-- Refined Pirate Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13497" /> <!-- Refined Chick Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13498" /> <!-- Refined Wizard Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13499" /> <!-- Refined Jester Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13500" /> <!-- Refined Black Feather Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13501" /> <!-- Refined Romantic Chapeau -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13502" /> <!-- Refined Carnival Circlet -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13503" /> <!-- Refined Medieval Style Party Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13504" /> <!-- Refined Dapper Cap -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13505" /> <!-- Clownfish Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13513" /> <!-- Mining Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13514" /> <!-- Improved Mining Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13515" /> <!-- Search Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="13516" /> <!-- Improved Search Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="14749" /> <!-- Afro Perm Wig -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="14750" /> <!-- Bamboo Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="14751" /> <!-- Smart Glasses -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20017" /> <!-- Afro Hair -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20020" /> <!-- Uniform Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20021" /> <!-- Assassin's Bamboo Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20022" /> <!-- Ruthless Tribe Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20023" /> <!-- Ribbon Hairband -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20024" /> <!-- Visor -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20031" /> <!-- Kat the Cat Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20032" /> <!-- Skull Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20095" /> <!-- Santa Horn Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20275" /> <!-- Gold Afro -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20276" /> <!-- Pink Afro -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20321" /> <!-- Goggle -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20322" /> <!-- Napoleon Hat -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20323" /> <!-- Horn Hairband -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20324" /> <!-- Black Gem Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="20325" /> <!-- Plastic Hair -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22156" /> <!-- Daisy Hairpin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22157" /> <!-- Forget-me-not Hairpin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22158" /> <!-- Outlaw's Eyepatch -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22159" /> <!-- Pirate's Eyepatch -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22160" /> <!-- Monocle -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22161" /> <!-- Red Mask of Victory -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22162" /> <!-- Red Horn of Victory -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22163" /> <!-- Party Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22164" /> <!-- Red Party Mask -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22165" /> <!-- Cat Ears -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22166" /> <!-- Lady's Hair Pin -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22167" /> <!-- Raccoon Ears -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22168" /> <!-- Rabbit Ear -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22169" /> <!-- Little Angel Wings -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22170" /> <!-- Fairy's Tentacle -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22171" /> <!-- Dandy's Chapeau -->
+	</item>
+	<item>
+		<ingredient count="5000" id="4356" />
+		<production count="1" id="22172" /> <!-- Artisan's Goggles -->
 	</item>
 </list>

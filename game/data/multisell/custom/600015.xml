@@ -5,38 +5,89 @@
 	</npcs>
 	<item>
 		<!-- Adena -->
-		<ingredient count="1336100" id="57" />
+		<ingredient count="66" id="4356" />
 		<!-- Lv. 5 Legendary STR Dye -->
-		<production count="1" id="23066" />
+		<production count="1" id="17709" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="1336100" id="57" />
+		<ingredient count="66" id="4356" />
 		<!-- Lv. 5 Legendary DEX Dye -->
-		<production count="1" id="23067" />
+		<production count="1" id="17710" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="1336100" id="57" />
+		<ingredient count="66" id="4356" />
 		<!-- Lv. 5 Legendary CON Dye -->
-		<production count="1" id="23068" />
+		<production count="1" id="17711" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="1336100" id="57" />
+		<ingredient count="66" id="4356" />
 		<!-- Lv. 5 Legendary INT Dye -->
-		<production count="1" id="23069" />
+		<production count="1" id="17712" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="1336100" id="57" />
+		<ingredient count="66" id="4356" />
 		<!-- Lv. 5 Legendary WIT Dye -->
-		<production count="1" id="23070" />
+		<production count="1" id="17713" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="1336100" id="57" />
+		<ingredient count="66" id="4356" />
 		<!-- Lv. 5 Legendary MEN Dye -->
-		<production count="1" id="23071" />
+		<production count="1" id="17714" />
+	</item>
+	<!-- Lv. 5 Legendary Charisma Dyes -->
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39415" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39416" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39417" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39418" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39419" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39420" />
+	</item>
+
+	<!-- Lv. 5 Legendary Luck Dyes -->
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39445" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39446" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39447" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39448" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39449" />
+	</item>
+	<item>
+		<ingredient count="66" id="4356" />
+		<production count="1" id="39450" />
 	</item>
 </list>

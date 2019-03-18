@@ -5,56 +5,20 @@
 	</npcs>
 	<item>
 		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Earring -->
-		<production count="1" id="18033" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Necklace -->
-		<production count="1" id="18032" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Ring -->
-		<production count="1" id="18034" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="20000000" id="57" />
+		<ingredient count="3168" id="4356" />
 		<!-- Blessed Eternal Necklace -->
-		<production count="1" id="18100" />
+		<production count="1" id="17447" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="20000000" id="57" />
+		<ingredient count="3168" id="4356" />
 		<!-- Blessed Eternal Earring -->
-		<production count="1" id="18101" />
+		<production count="1" id="17448" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="20000000" id="57" />
+		<ingredient count="3168" id="4356" />
 		<!-- Blessed Eternal Ring -->
-		<production count="1" id="18102" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="15000000" id="57" />
-		<!-- Blessed Seraph Necklace -->
-		<production count="1" id="18066" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="15000000" id="57" />
-		<!-- Blessed Seraph Earring -->
-		<production count="1" id="18067" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="15000000" id="57" />
-		<!-- Blessed Seraph Ring -->
-		<production count="1" id="18068" />
+		<production count="1" id="17449" />
 	</item>
 </list>

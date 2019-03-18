@@ -3,28 +3,41 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+	<!-- Superior Giant's Codex -->
 	<item>
-		<!-- Adena -->
-		<ingredient count="750000" id="57" />
-		<!-- Lesser Giant's Codex -->
-		<production count="1" id="6622" />
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30297" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="750000" id="57" />
-		<!-- Lesser Giant's Codex - Oblivion -->
-		<production count="1" id="9625" />
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30298" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="750000" id="57" />
-		<!-- Lesser Giant's Codex - Discipline -->
-		<production count="1" id="9626" />
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30299" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="750000" id="57" />
-		<!-- Lesser Giant's Codex - Mastery -->
-		<production count="1" id="9627" />
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30300" />
+	</item>
+	<item>
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="37044" />
+	</item>
+	<item>
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30301" />
+	</item>
+	<item>
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30302" />
+	</item>
+	<item>
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30303" />
+	</item>
+	<item>
+		<ingredient count="1000000" id="4356" />
+		<production count="1" id="30304" />
 	</item>
 </list>

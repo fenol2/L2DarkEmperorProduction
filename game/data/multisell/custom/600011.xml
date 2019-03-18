@@ -3,82 +3,87 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Soulshot Pack (D-grade) -->
-		<production count="1" id="22104" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Soulshot Pack (C-grade) -->
-		<production count="1" id="22105" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Soulshot Pack (B-grade) -->
-		<production count="1" id="22106" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Soulshot Pack (S-grade) -->
-		<production count="1" id="22108" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Beast Soulshot Pack -->
-		<production count="1" id="20326" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Soulshot Pack (R-grade) -->
-		<production count="1" id="30276" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Spiritshot Pack (D-grade) -->
-		<production count="1" id="22094" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Spiritshot Pack (C-grade) -->
-		<production count="1" id="22095" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Spiritshot Pack (B-grade) -->
-		<production count="1" id="22096" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Spiritshot Pack (A-grade) -->
-		<production count="1" id="22097" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Spiritshot Pack (S-grade) -->
-		<production count="1" id="22098" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Beast Spiritshot Pack -->
-		<production count="1" id="20328" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Spiritshot (R-grade) -->
-		<production count="5000" id="19442" />
-	</item>
+
+        <!-- Soulshots & Spiritshots -->
+
+        <!-- Soulshot: No Grade -->
+        <item>
+        	<ingredient count="6" id="57" />
+        	<production count="1" id="1835" /> 
+        </item>
+        <!-- Soulshot: D-grade -->
+        <item>
+        	<ingredient count="14" id="57" />
+        	<production count="1" id="1463" /> 
+        </item>
+        <!-- Soulshot: C-grade -->
+        <item>
+        	<ingredient count="22" id="57" />
+        	<production count="1" id="1464" /> 
+        </item>
+        <!-- Soulshot: B-grade -->
+        <item>
+        	<ingredient count="50" id="57" />
+        	<production count="1" id="1465" /> 
+        </item>
+        <!-- Soulshot: A-grade -->
+        <item>
+        	<ingredient count="80" id="57" />
+        	<production count="1" id="1466" /> 
+        </item>
+        <!-- Soulshot: S-grade -->
+        <item>
+        	<ingredient count="100" id="57" />
+        	<production count="1" id="1467" /> 
+        	</item>
+        <!-- Soulshot: R-grade -->
+        <item>
+        	<ingredient count="200" id="57" />
+        	<production count="1" id="17754" />
+        </item>
+        <!-- Blessed Spiritshot: No Grade -->
+        <item>
+        	<ingredient count="34" id="57" />
+        	<production count="1" id="3947" /> 
+        </item>
+        <!-- Blessed Spiritshot: D-Grade -->
+        <item>
+        	<ingredient count="28" id="57" />
+        	<production count="1" id="3948" /> 
+        </item>
+        <!-- Blessed Spiritshot: C-Grade -->
+        <item>
+        	<ingredient count="42" id="57" />
+        	<production count="1" id="3949" /> 
+        </item>
+        <!-- Blessed Spiritshot: B-Grade -->
+        <item>
+        	<ingredient count="144" id="57" />
+        	<production count="1" id="3950" /> 
+        </item>
+        <!-- Blessed Spiritshot: A-Grade -->
+        <item>
+        	<ingredient count="290" id="57" />
+        	<production count="1" id="3951" /> 
+        </item>
+        <!-- Blessed Spiritshot: S Grade -->
+        <item>
+        	<ingredient count="350" id="57" />
+        	<production count="1" id="3952" /> 
+     	</item>
+        <!-- Blessed Spiritshot: R Grade -->
+        <item>
+        	<ingredient count="750" id="57" />
+        	<production count="1" id="19442" />
+        </item>
+        <!-- Beast Soulshot -->
+        <item>
+            <ingredient count="20" id="57" />
+            <production count="1" id="6645" />
+        </item>
+        <!-- Blessed Beast Spiritshot -->
+        <item>
+            <ingredient count="100" id="57" />
+            <production count="1" id="6647" />
+        </item>
 </list>

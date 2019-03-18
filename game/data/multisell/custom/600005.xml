@@ -3,106 +3,137 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+	<!-- Improved Seraph R-Grade Armors/Shields/Sigils (Normal) -->
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Blessed Seraph Helmet -->
-		<production count="1" id="18049" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19554" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="100000000" id="57" />
-		<!-- Blessed Seraph Breastplate -->
-		<production count="1" id="18050" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19555" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Seraph Gaiters -->
-		<production count="1" id="18051" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19556" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Gauntlets -->
-		<production count="1" id="18052" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19557" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Boots -->
-		<production count="1" id="18053" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19558" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Shield -->
-		<production count="1" id="18054" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19560" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Blessed Seraph Leather Helmet -->
-		<production count="1" id="18055" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19561" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="100000000" id="57" />
-		<!-- Blessed Seraph Leather Armor -->
-		<production count="1" id="18056" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19562" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Seraph Leather Leggings -->
-		<production count="1" id="18057" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19563" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Leather Gloves -->
-		<production count="1" id="18058" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19564" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Leather Boots -->
-		<production count="1" id="18059" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19565" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="40000000" id="57" />
-		<!-- Blessed Seraph Circlet -->
-		<production count="1" id="18060" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19566" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="100000000" id="57" />
-		<!-- Blessed Seraph Tunic -->
-		<production count="1" id="18061" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19567" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Seraph Stockings -->
-		<production count="1" id="18062" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19568" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Gloves -->
-		<production count="1" id="18063" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19569" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Shoes -->
-		<production count="1" id="18064" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19762" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="35000000" id="57" />
-		<!-- Blessed Seraph Sigil -->
-		<production count="1" id="18065" />
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19763" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19764" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19765" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19766" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19768" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19769" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19770" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19771" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19772" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19773" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19774" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19775" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19776" />
+	</item>
+	<item>
+		<ingredient count="1584" id="4356" />
+		<production count="1" id="19777" />
+	</item>
+	<item>
+		<ingredient count="150" id="4356" />
+		<production count="1" id="19559" />
+	</item>
+	<item>
+		<ingredient count="150" id="4356" />
+		<production count="1" id="19767" />
+	</item>
+	<item>
+		<ingredient count="150" id="4356" />
+		<production count="1" id="17412" />
 	</item>
 </list>

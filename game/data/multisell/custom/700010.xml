@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>605</npc> <!-- Jewels/Brooch Upgrade NPC -->
+	</npcs>
+
+	<!-- Brooch Upgrade -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38766" />
+		<production count="1" id="38767" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38767" />
+		<production count="1" id="38768" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38768" />
+		<production count="1" id="46668" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="46668" />
+		<production count="1" id="28358" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="28358" />
+		<production count="1" id="28487" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="28487" />
+		<production count="1" id="28488" />
+	</item>
+
+	<!-- cosas que van en los broochs upgrade -->
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38855" />
+		<production count="1" id="38856" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38856" />
+		<production count="1" id="38857" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38857" />
+		<production count="1" id="38858" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38858" />
+		<production count="1" id="38859" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38859" />
+		<production count="1" id="47688" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38927" />
+		<production count="1" id="38928" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38928" />
+		<production count="1" id="38929" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38929" />
+		<production count="1" id="38930" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38930" />
+		<production count="1" id="38931" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38931" />
+		<production count="1" id="47689" />
+	</item>
+
+	<!-- Pack de joyas   TOPAZ QUITADO
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38850" />
+		<production count="1" id="38851" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38851" />
+		<production count="1" id="38852" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38852" />
+		<production count="1" id="38853" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38853" />
+		<production count="1" id="38854" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38854" />
+		<production count="1" id="47687" />
+	</item>
+ -->
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38870" />
+		<production count="1" id="38871" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38871" />
+		<production count="1" id="38872" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38872" />
+		<production count="1" id="38873" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38873" />
+		<production count="1" id="38874" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38874" />
+		<production count="1" id="47690" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38875" />
+		<production count="1" id="38876" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38876" />
+		<production count="1" id="38877" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38877" />
+		<production count="1" id="38878" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38878" />
+		<production count="1" id="38879" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38879" />
+		<production count="1" id="47691" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38880" />
+		<production count="1" id="38881" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38881" />
+		<production count="1" id="38882" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38882" />
+		<production count="1" id="38883" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38883" />
+		<production count="1" id="38884" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38884" />
+		<production count="1" id="47692" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38890" />
+		<production count="1" id="38891" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38891" />
+		<production count="1" id="38892" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38892" />
+		<production count="1" id="38893" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38893" />
+		<production count="1" id="38894" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38894" />
+		<production count="1" id="47694" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38885" />
+		<production count="1" id="38886" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38886" />
+		<production count="1" id="38887" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38887" />
+		<production count="1" id="38888" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38888" />
+		<production count="1" id="38889" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38889" />
+		<production count="1" id="47693" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38895" />
+		<production count="1" id="38896" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38896" />
+		<production count="1" id="38897" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38897" />
+		<production count="1" id="38898" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38898" />
+		<production count="1" id="38899" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="38899" />
+		<production count="1" id="47695" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="26476" />
+		<production count="1" id="26477" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="26477" />
+		<production count="1" id="26478" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="26478" />
+		<production count="1" id="26479" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26479" />
+		<production count="1" id="26480" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="26480" />
+		<production count="1" id="47696" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="26486" />
+		<production count="1" id="26487" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="26487" />
+		<production count="1" id="26488" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="26488" />
+		<production count="1" id="26489" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26489" />
+		<production count="1" id="26490" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="26490" />
+		<production count="1" id="47698" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="26481" />
+		<production count="1" id="26482" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="26482" />
+		<production count="1" id="26483" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="26483" />
+		<production count="1" id="26484" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26484" />
+		<production count="1" id="26485" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="26485" />
+		<production count="1" id="47697" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="26502" />
+		<production count="1" id="26503" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="26503" />
+		<production count="1" id="26504" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="26504" />
+		<production count="1" id="26505" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26505" />
+		<production count="1" id="26506" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="26506" />
+		<production count="1" id="28377" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38860" />
+		<production count="1" id="38861" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38861" />
+		<production count="1" id="38862" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38862" />
+		<production count="1" id="38863" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38863" />
+		<production count="1" id="38864" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="38865" />
+		<production count="1" id="38866" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="38866" />
+		<production count="1" id="38867" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="38867" />
+		<production count="1" id="38868" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="38868" />
+		<production count="1" id="38869" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="26497" />
+		<production count="1" id="26498" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="26498" />
+		<production count="1" id="26499" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="26499" />
+		<production count="1" id="26500" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26500" />
+		<production count="1" id="26501" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="26501" />
+		<production count="1" id="28376" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="47677" />
+		<production count="1" id="47678" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="47678" />
+		<production count="1" id="47679" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="47679" />
+		<production count="1" id="47680" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="47680" />
+		<production count="1" id="47681" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="47681" />
+		<production count="1" id="47699" />
+	</item>
+
+	<!-- Pack de joyas -->
+	
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="47682" />
+		<production count="1" id="47683" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="47683" />
+		<production count="1" id="47684" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="47684" />
+		<production count="1" id="47685" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="47685" />
+		<production count="1" id="47686" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="47686" />
+		<production count="1" id="47700" /> 
+	</item>
+</list>

@@ -3,88 +3,61 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+	<!-- Amaranthine R99-Grade Weapons (Normal) -->
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Shaper -->
-		<production count="1" id="18069" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17416"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Cutter -->
-		<production count="1" id="18070" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17417"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Slasher -->
-		<production count="1" id="18071" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17418"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Avenger -->
-		<production count="1" id="18072" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17419"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Fighter -->
-		<production count="1" id="18073" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17420"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Stormer -->
-		<production count="1" id="18074" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17421"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Thrower -->
-		<production count="1" id="18075" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17422"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Shooter -->
-		<production count="1" id="18076" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17423"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Buster -->
-		<production count="1" id="18077" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17424"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Caster -->
-		<production count="1" id="18078" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17425"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Retributer -->
-		<production count="1" id="18079" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17426"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Dualsword -->
-		<production count="1" id="18080" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17427"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Dual Dagger -->
-		<production count="1" id="18081" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17428"/>
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="500000000" id="57" />
-		<!-- Blessed Amaranthine Dual Blunt Weapon -->
-		<production count="1" id="18082" />
+		<ingredient count="15840" id="4356"/>
+		<production count="1" id="17429"/>
 	</item>
 </list>

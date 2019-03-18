@@ -5,22 +5,20 @@
 	</npcs>
 	<item>
 		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Energy of Destruction -->
-		<production count="1" id="35562" />
+		<ingredient count="1584" id="4356" />
+		<!-- Blessed Seraph Necklace -->
+		<production count="1" id="17413" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Mouse Coin -->
-		<ingredient count="50" id="10639" />
-		<!-- Giant's Energy -->
-		<production count="1" id="35563" />
+		<ingredient count="1584" id="4356" />
+		<!-- Blessed Seraph Earring -->
+		<production count="1" id="17414" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Talisman - Destruction -->
-		<production count="1" id="34985" />
+		<ingredient count="1584" id="4356" />
+		<!-- Blessed Seraph Ring -->
+		<production count="1" id="17415" />
 	</item>
 </list>

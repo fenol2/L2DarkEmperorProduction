@@ -3,88 +3,61 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+	<!-- Apocalypse R2-Grade Weapons (Normal) -->
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Shaper -->
-		<production count="1" id="18001" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17324" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Cutter -->
-		<production count="1" id="18002" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17325" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Slasher -->
-		<production count="1" id="18003" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17326" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Avenger -->
-		<production count="1" id="18004" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17327" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Fighter -->
-		<production count="1" id="18005" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17328" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Stormer -->
-		<production count="1" id="18006" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17329" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Thrower -->
-		<production count="1" id="18007" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17330" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Shooter -->
-		<production count="1" id="18008" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17331" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Buster -->
-		<production count="1" id="18009" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17332" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Caster -->
-		<production count="1" id="18010" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17333" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Retributer -->
-		<production count="1" id="18011" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17334" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Dualsword -->
-		<production count="1" id="18012" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17335" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Dual Dagger -->
-		<production count="1" id="18013" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17336" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Apocalypse Dual Blunt Weapon -->
-		<production count="1" id="18014" />
+		<ingredient count="660" id="4356"/>
+		<production count="1" id="17337" />
 	</item>
 </list>

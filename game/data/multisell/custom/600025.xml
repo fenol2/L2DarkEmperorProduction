@@ -3,76 +3,18 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+
+	<!-- Cloaks -->
+
 	<item>
 		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak -->
-		<production count="1" id="13687" />
+		<ingredient count="5280" id="4356" />
+		<production count="1" id="30373" />
 	</item>
 	<item>
 		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak (Light Armor) -->
-		<production count="1" id="13688" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak (Robe) -->
-		<production count="1" id="13689" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Knight's Cloak (Kamael) -->
-		<production count="1" id="13690" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak (Kamael) -->
-		<production count="1" id="13889" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak -->
-		<production count="1" id="13890" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak (Light Armor) -->
-		<production count="1" id="13891" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Holy Spirit's Cloak (Robe) -->
-		<production count="1" id="13892" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak -->
-		<production count="1" id="14601" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak (Light Armor) -->
-		<production count="1" id="14608" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak -->
-		<production count="1" id="14609" />
-	</item>
-	<item>
-		<!-- Adena -->
-		<ingredient count="28671000" id="57" />
-		<!-- Ancient Cloak (Robe) -->
-		<production count="1" id="14610" />
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="30373" />
+		<production count="1" id="30372" />
 	</item>
 </list>

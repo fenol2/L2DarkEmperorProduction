@@ -3,106 +3,137 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+	<!-- Improved Twilight R-Grade Armors/Shields/Sigils (Normal) -->
 	<item>
-		<!-- Adena -->
-		<ingredient count="15000000" id="57" />
-		<!-- Blessed Twilight Helmet -->
-		<production count="1" id="18015" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19538" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="30000000" id="57" />
-		<!-- Blessed Twilight Breastplate -->
-		<production count="1" id="18016" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19539" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="20000000" id="57" />
-		<!-- Blessed Twilight Gaiters -->
-		<production count="1" id="18017" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19540" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Gauntlets -->
-		<production count="1" id="18018" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19541" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Boots -->
-		<production count="1" id="18019" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19542" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Shield -->
-		<production count="1" id="18020" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19544" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="15000000" id="57" />
-		<!-- Blessed Twilight Leather Helmet -->
-		<production count="1" id="18021" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19545" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="30000000" id="57" />
-		<!-- Blessed Twilight Leather Armor -->
-		<production count="1" id="18022" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19546" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="20000000" id="57" />
-		<!-- Blessed Twilight Leather Leggings -->
-		<production count="1" id="18023" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19547" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Leather Gloves -->
-		<production count="1" id="18024" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19548" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Leather Boots -->
-		<production count="1" id="18025" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19549" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="15000000" id="57" />
-		<!-- Blessed Twilight Circlet -->
-		<production count="1" id="18026" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19550" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="30000000" id="57" />
-		<!-- Blessed Twilight Tunic -->
-		<production count="1" id="18027" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19551" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="20000000" id="57" />
-		<!-- Blessed Twilight Stockings -->
-		<production count="1" id="18028" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19552" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Gloves -->
-		<production count="1" id="18029" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19553" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Shoes -->
-		<production count="1" id="18030" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19746" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="10000000" id="57" />
-		<!-- Blessed Twilight Sigil -->
-		<production count="1" id="18031" />
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19747" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19748" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19749" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19750" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19752" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19753" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19754" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19755" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19756" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19757" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19758" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19759" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19760" />
+	</item>
+	<item>
+		<ingredient count="132" id="4356" />
+		<production count="1" id="19761" />
+	</item>
+	<item>
+		<ingredient count="13" id="4356" />
+		<production count="1" id="19543" />
+	</item>
+	<item>
+		<ingredient count="13" id="4356" />
+		<production count="1" id="19751" />
+	</item>
+	<item>
+		<ingredient count="13" id="4356" />
+		<production count="1" id="17354" />
 	</item>
 </list>

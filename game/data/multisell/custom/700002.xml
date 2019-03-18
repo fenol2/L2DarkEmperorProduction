@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Weapons A -->
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46813" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46814" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46815" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46816" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46817" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46818" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46819" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46820" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46821" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46822" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46823" />
+	</item>
+	<item>
+		<ingredient count="50000" id="57"/>
+		<production count="1" id="46824" />
+	</item>
+</list>

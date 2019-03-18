@@ -124,7 +124,9 @@ public final class DenOfEvil extends AbstractNpcAI
 		}
 		final int skillId = getSkillIdByNpcId(npc.getId());
 		final int skillLevel = zone.getSkillLevel(skillId);
-		zone.addSkill(skillId, skillLevel + 1);
+		if (skillLevel < 4) {
+			zone.addSkill(skillId, skillLevel + 1);
+		}
 		if (skillLevel == 3) // 3+1=4
 		{
 			ThreadPool.schedule(new KashaDestruction(zone), 2 * 60 * 1000);

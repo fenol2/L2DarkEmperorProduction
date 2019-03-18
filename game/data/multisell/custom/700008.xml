@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- CB -->
+	</npcs>
+	<!-- Jewels A -->
+	<item>
+		<ingredient count="10000" id="57" />
+		<production count="1" id="46980" />
+	</item>
+	<item>
+		<ingredient count="10000" id="57" />
+		<production count="1" id="46981" />
+	</item>
+	<item>
+		<ingredient count="10000" id="57" />
+		<production count="1" id="46982" />
+	</item>
+	<item>
+		<ingredient count="10000" id="57" />
+		<production count="1" id="46983" />
+	</item>
+	<item>
+		<ingredient count="10000" id="57" />
+		<production count="1" id="46984" />
+	</item>
+</list>

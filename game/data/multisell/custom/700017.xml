@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>601</npc> <!-- Jewels Upgrade NPC -->
+	</npcs>
+	<!-- blessed Upgrade -->
+	<item>
+		<ingredient id="17355" count="1" /> <!-- Twilight Necklace -->
+		<ingredient id="4356" count="264" />
+		<production id="18032" count="1" /> <!-- Blessed Twilight Necklace -->
+	</item>
+	<item>
+		<ingredient id="17356" count="1" /> <!-- Twilight Earring -->
+		<ingredient id="4356" count="264" />
+		<production id="18033" count="1" /> <!-- Blessed Twilight Earring -->
+	</item>
+	<item>
+		<ingredient id="17357" count="1" /> <!-- Twilight Ring -->
+		<ingredient id="4356" count="264" />
+		<production id="18034" count="1" /> <!-- Blessed Twilight Ring -->
+	</item>
+
+	<item>
+		<ingredient id="17413" count="1" /> <!-- Seraph Necklace -->
+		<ingredient id="4356" count="3168" />
+		<production id="18066" count="1" /> <!-- Blessed Seraph Necklace -->
+	</item>
+	<item>
+		<ingredient id="17414" count="1" /> <!-- Seraph Earring -->
+		<ingredient id="4356" count="3168" />
+		<production id="18067" count="1" /> <!-- Blessed Seraph Earring -->
+	</item>
+	<item>
+		<ingredient id="17415" count="1" /> <!-- Seraph Ring -->
+		<ingredient id="4356" count="3168" />
+		<production id="18068" count="1" /> <!-- Blessed Seraph Ring -->
+	</item>
+	
+	<item>
+		<ingredient id="17447" count="1" /> <!-- Eternal Necklace -->
+		<ingredient id="4356" count="4224" />
+		<production id="18100" count="1" /> <!-- Blessed Eternal Necklace -->
+	</item>
+	<item>
+		<ingredient id="17448" count="1" /> <!-- Eternal Earring -->
+		<ingredient id="4356" count="4224" />
+		<production id="18101" count="1" /> <!-- Blessed Eternal Earring -->
+	</item>
+	<item>
+		<ingredient id="17449" count="1" /> <!-- Eternal Ring -->
+		<ingredient id="4356" count="4224" />
+		<production id="18102" count="1" /> <!-- Blessed Eternal Ring -->
+	</item>
+
+</list>

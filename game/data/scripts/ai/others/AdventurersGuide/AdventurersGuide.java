@@ -1,16 +1,16 @@
 /*
  * This file is part of the L2J Mobius project.
- * 
+ *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
- * 
+ *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
  * General Public License for more details.
- * 
+ *
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
@@ -21,6 +21,8 @@ import com.l2jmobius.gameserver.model.actor.instance.L2PcInstance;
 import com.l2jmobius.gameserver.model.holders.SkillHolder;
 import com.l2jmobius.gameserver.model.skills.Skill;
 import com.l2jmobius.gameserver.model.skills.SkillCaster;
+import com.l2jmobius.gameserver.handler.CommunityBoardHandler;
+import com.l2jmobius.gameserver.cache.HtmCache;
 
 import ai.AbstractNpcAI;
 
@@ -32,43 +34,68 @@ public final class AdventurersGuide extends AbstractNpcAI
 {
 	// NPC
 	private static final int[] ADVENTURERS_GUIDE =
-	{
-		32327,
-		33950,
-	};
+			{
+					32327,
+					33950,
+			};
 	// Skills
 	private static final SkillHolder BLESS_PROTECTION = new SkillHolder(5182, 1); // Blessing of Protection
 	private static final SkillHolder KNIGHT = new SkillHolder(15648, 1); // Knight's Harmony (Adventurer)
 	private static final SkillHolder WARRIOR = new SkillHolder(15649, 1); // Warrior's Harmony (Adventurer)
 	private static final SkillHolder WIZARD = new SkillHolder(15650, 1); // Wizard's Harmony (Adventurer)
 	private static final SkillHolder[] GROUP_BUFFS =
-	{
-		new SkillHolder(15642, 1), // Horn Melody (Adventurer)
-		new SkillHolder(15643, 1), // Drum Melody (Adventurer)
-		new SkillHolder(15644, 1), // Pipe Organ Melody (Adventurer)
-		new SkillHolder(15645, 1), // Guitar Melody (Adventurer)
-		new SkillHolder(15646, 1), // Harp Melody (Adventurer)
-		new SkillHolder(15647, 1), // Lute Melody (Adventurer)
-		new SkillHolder(15651, 1), // Prevailing Sonata (Adventurer)
-		new SkillHolder(15652, 1), // Daring Sonata (Adventurer)
-		new SkillHolder(15653, 1), // Refreshing Sonata (Adventurer)
-	};
+			{
+					new SkillHolder(15642, 1), // Horn Melody (Adventurer)
+					new SkillHolder(15643, 1), // Drum Melody (Adventurer)
+					new SkillHolder(15644, 1), // Pipe Organ Melody (Adventurer)
+					new SkillHolder(15645, 1), // Guitar Melody (Adventurer)
+					new SkillHolder(15646, 1), // Harp Melody (Adventurer)
+					new SkillHolder(15647, 1), // Lute Melody (Adventurer)
+					new SkillHolder(15651, 1), // Prevailing Sonata (Adventurer)
+					new SkillHolder(15652, 1), // Daring Sonata (Adventurer)
+					new SkillHolder(15653, 1), // Refreshing Sonata (Adventurer)
+			};
 	// Misc
-	private static int MAX_LEVEL_BUFFS = 94;
+	private static int MAX_LEVEL_BUFFS = 40;
 	private static int MIN_LEVEL_PROTECTION = 40;
-	
+	// PATH
+	private static final String NAVIGATION_PATH = "data/html/CommunityBoard/Custom/navigation.html";
+
 	private AdventurersGuide()
 	{
 		addStartNpc(ADVENTURERS_GUIDE);
 		addTalkId(ADVENTURERS_GUIDE);
 		addFirstTalkId(ADVENTURERS_GUIDE);
 	}
-	
+
+	@Override
+	public String onFirstTalk(L2Npc npc, L2PcInstance player)
+	{
+
+		if (npc.getId() == 33950) {
+			return npc.getId() + ".html";
+		}
+
+		String returnHtml = null;
+		final String navigation = HtmCache.getInstance().getHtm(player, NAVIGATION_PATH);
+		final String customPath = "Custom/";
+
+		returnHtml = HtmCache.getInstance().getHtm(player, "data/html/CommunityBoard/" + customPath + "buffer/main.html");
+
+		if (returnHtml != null)
+		{
+			returnHtml = returnHtml.replace("%navigation%", navigation);
+			CommunityBoardHandler.separateAndSend(returnHtml, player);
+		}
+
+		return null;
+	}
+
 	@Override
 	public String onAdvEvent(String event, L2Npc npc, L2PcInstance player)
 	{
 		String htmltext = null;
-		
+
 		switch (event)
 		{
 			case "guide-01.html":
@@ -92,7 +119,7 @@ public final class AdventurersGuide extends AbstractNpcAI
 					htmltext = "guide-noBreath.html";
 					break;
 				}
-				
+
 				player.setShilensBreathDebuffLevel(2);
 				htmltext = "guide-cleanedBreath.html";
 				break;
@@ -115,27 +142,27 @@ public final class AdventurersGuide extends AbstractNpcAI
 		}
 		return htmltext;
 	}
-	
+
 	private String applyBuffs(L2Npc npc, L2PcInstance player, Skill skill)
 	{
 		if (player.getLevel() > MAX_LEVEL_BUFFS)
 		{
 			return "guide-noBuffs.html";
 		}
-		
+
 		for (SkillHolder holder : GROUP_BUFFS)
 		{
 			SkillCaster.triggerCast(npc, player, holder.getSkill());
 		}
 		SkillCaster.triggerCast(npc, player, skill);
-		
+
 		if ((player.getLevel() < MIN_LEVEL_PROTECTION) && (player.getClassId().level() <= 1))
 		{
 			SkillCaster.triggerCast(npc, player, BLESS_PROTECTION.getSkill());
 		}
 		return null;
 	}
-	
+
 	public static void main(String[] args)
 	{
 		new AdventurersGuide();

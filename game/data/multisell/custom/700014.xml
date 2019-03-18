@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>606</npc> <!-- Talisman Upgrade NPC -->
+	</npcs>
+
+	<!-- Talisman Upgrade -->
+
+	<!-- Seed Talismans -->
+	<item>
+		<ingredient count="1320" id="4356" />
+		<ingredient count="1" id="34984" />
+		<production count="1" id="34985" />
+	</item>
+	<item>
+		<ingredient count="2640" id="4356" />
+		<ingredient count="1" id="34985" />
+		<production count="1" id="34986" />
+	</item>
+	<item>
+		<ingredient count="3960" id="4356" />
+		<ingredient count="1" id="34986" />
+		<production count="1" id="34987" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="34987" />
+		<production count="1" id="34988" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="34988" />
+		<production count="1" id="34989" />
+	</item>
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="34989" />
+		<production count="1" id="39572" />
+	</item>
+
+	<!-- seven signs -->
+	<item>
+		<ingredient count="7920" id="4356" />
+		<ingredient count="1" id="37714" />
+		<ingredient count="1" id="37715" />
+		<production count="1" id="37717" />
+	</item>
+
+	<!-- abundance -->
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26338" />
+		<production count="1" id="26339" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26339" />
+		<production count="1" id="26340" />
+	</item>
+	<item>
+		<ingredient count="5280" id="4356" />
+		<ingredient count="1" id="26340" />
+		<production count="1" id="26341" />
+	</item>
+
+	<!-- venir -->
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39634" />
+		<production count="1" id="39635" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39635" />
+		<production count="1" id="39636" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39636" />
+		<production count="1" id="39637" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39637" />
+		<production count="1" id="39638" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39638" />
+		<production count="1" id="39639" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39639" />
+		<production count="1" id="39640" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39640" />
+		<production count="1" id="39641" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39641" />
+		<production count="1" id="39642" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39642" />
+		<production count="1" id="39643" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39643" />
+		<production count="1" id="39644" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39644" />
+		<production count="1" id="39645" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39645" />
+		<production count="1" id="39646" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39646" />
+		<production count="1" id="39647" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39647" />
+		<production count="1" id="39648" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39648" />
+		<production count="1" id="39649" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39649" />
+		<production count="1" id="39650" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39650" />
+		<production count="1" id="39651" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39651" />
+		<production count="1" id="39652" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39652" />
+		<production count="1" id="39653" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39653" />
+		<production count="1" id="39654" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39654" />
+		<production count="1" id="39655" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39655" />
+		<production count="1" id="39656" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="39656" />
+		<production count="1" id="39657" />
+	</item>
+
+	<!-- sayha -->
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="28437" />
+		<production count="1" id="28438" />
+	</item>
+	<item>
+		<ingredient count="740" id="4356" />
+		<ingredient count="1" id="28438" />
+		<production count="1" id="28439" />
+	</item>
+	<item>
+		<ingredient count="1480" id="4356" />
+		<ingredient count="1" id="28439" />
+		<production count="1" id="28440" />
+	</item>
+	<item>
+		<ingredient count="1480" id="4356" />
+		<ingredient count="1" id="28440" />
+		<production count="1" id="28441" />
+	</item>
+	<item>
+		<ingredient count="1480" id="4356" />
+		<ingredient count="1" id="28441" />
+		<production count="1" id="28442" />
+	</item>
+	<item>
+		<ingredient count="1480" id="4356" />
+		<ingredient count="1" id="28442" />
+		<production count="1" id="28443" />
+	</item>
+	<item>
+		<ingredient count="1480" id="4356" />
+		<ingredient count="1" id="28443" />
+		<production count="1" id="28444" />
+	</item>
+	<item>
+		<ingredient count="1480" id="4356" />
+		<ingredient count="1" id="28444" />
+		<production count="1" id="28445" />
+	</item>
+	<item>
+		<ingredient count="1480" id="4356" />
+		<ingredient count="1" id="28445" />
+		<production count="1" id="28446" />
+	</item>
+
+</list>

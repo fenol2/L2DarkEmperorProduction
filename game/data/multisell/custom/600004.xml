@@ -3,106 +3,137 @@
 	<npcs>
 		<npc>-1</npc> <!-- CB -->
 	</npcs>
+	<!-- Improved Eternal R-Grade Armors/Shields/Sigils (Normal) -->
 	<item>
-		<!-- Adena -->
-		<ingredient count="80000000" id="57" />
-		<!-- Blessed Eternal Helmet -->
-		<production count="1" id="18083" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19570" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="250000000" id="57" />
-		<!-- Blessed Eternal Breastplate -->
-		<production count="1" id="18084" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19571" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Eternal Gaiters -->
-		<production count="1" id="18085" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19572" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Gauntlets -->
-		<production count="1" id="18086" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19573" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Boots -->
-		<production count="1" id="18087" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19574" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Shield -->
-		<production count="1" id="18088" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19576" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="80000000" id="57" />
-		<!-- Blessed Eternal Leather Helmet -->
-		<production count="1" id="18089" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19577" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="250000000" id="57" />
-		<!-- Blessed Eternal Leather Armor -->
-		<production count="1" id="18090" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19578" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Eternal Leather Leggings -->
-		<production count="1" id="18091" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19579" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Leather Gloves -->
-		<production count="1" id="18092" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19580" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Leather Boots -->
-		<production count="1" id="18093" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19581" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="80000000" id="57" />
-		<!-- Blessed Eternal Circlet -->
-		<production count="1" id="18094" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19582" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="250000000" id="57" />
-		<!-- Blessed Eternal Tunic -->
-		<production count="1" id="18095" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19583" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="150000000" id="57" />
-		<!-- Blessed Eternal Stockings -->
-		<production count="1" id="18096" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19584" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Gloves -->
-		<production count="1" id="18097" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19585" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Shoes -->
-		<production count="1" id="18098" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19778" />
 	</item>
 	<item>
-		<!-- Adena -->
-		<ingredient count="60000000" id="57" />
-		<!-- Blessed Eternal Sigil -->
-		<production count="1" id="18099" />
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19779" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19780" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19781" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19782" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19784" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19785" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19786" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19787" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19788" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19789" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19790" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19791" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19792" />
+	</item>
+	<item>
+		<ingredient count="3168" id="4356" />
+		<production count="1" id="19793" />
+	</item>
+	<item>
+		<ingredient count="310" id="4356" />
+		<production count="1" id="19575" />
+	</item>
+	<item>
+		<ingredient count="310" id="4356" />
+		<production count="1" id="19783" />
+	</item>
+	<item>
+		<ingredient count="310" id="4356" />
+		<production count="1" id="17446" />
 	</item>
 </list>
