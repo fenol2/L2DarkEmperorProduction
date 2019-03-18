@@ -1,4 +1,6 @@
 game/log
 login/log
 game/data/spawns/Others
-game/data/config/Server.ini
+game/config/Server.ini
+login/config/LoginServer.ini
+db_installer/dumps
