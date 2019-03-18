@@ -4,3 +4,4 @@ game/data/spawns/Others
 game/config/Server.ini
 login/config/LoginServer.ini
 db_installer/dumps
+game/data/geodata/
