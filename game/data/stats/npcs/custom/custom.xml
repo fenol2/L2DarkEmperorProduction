@@ -90,7 +90,7 @@
 			<height normal="12.5" />
 		</collision>
 	</npc>
-	<npc id="600" level="70" type="L2Npc" name="Leona Blackbird">
+	<npc id="600" level="70" displayId="34295" usingServerSideName="true" usingServerSideTitle="true" name="Leona Blackbird" title="">
 		<!-- Confirmed CT2.5 -->
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
@@ -132,7 +132,7 @@
 			<height normal="22.4" />
 		</collision>
 	</npc>
-	<npc id="601" level="99" type="L2Npc" name="Ayanthe">
+	<npc id="601" level="99" displayId="33942" usingServerSideName="true" usingServerSideTitle="true" title="Jewels Upgrade" name="Ayanthe" >
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ERTHEIA</race>
 		<sex>FEMALE</sex>
@@ -155,7 +155,7 @@
 			<height normal="21.5" />
 		</collision>
 	</npc>
-	<npc id="602" level="70" type="L2Npc" name="Kain Van Halter">
+	<npc id="602" level="70" displayId="33993" usingServerSideName="true" usingServerSideTitle="true" title="Weapon Upgrade" name="Kain Van Halter">
 		<!-- Confirmed CT2.5 -->
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
@@ -197,7 +197,7 @@
 			<height normal="20" />
 		</collision>
 	</npc>
-	<npc id="603" level="99" type="L2Npc" name="Lionel Hunter">
+	<npc id="603" level="99" displayId="33907" usingServerSideName="true" usingServerSideTitle="true" title="Armor Upgrade" name="Lionel Hunter">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>HUMAN</race>
 		<sex>FEMALE</sex>
@@ -220,7 +220,7 @@
 			<height normal="22.5" />
 		</collision>
 	</npc>
-	<npc id="604" level="85" type="L2Npc" name="Pantheon">
+	<npc id="604" level="85" displayId="32972" usingServerSideName="true" usingServerSideTitle="true" title="Server Info" name="Pantheon">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<parameters>
 			<param name="MoveAroundSocial" value="200" />
@@ -254,7 +254,7 @@
 		</collision>
 	</npc>
 
-	<npc id="605" level="70" type="L2Npc" name="Lady of the Lake">
+	<npc id="605" level="70" displayId="31745" usingServerSideName="true" usingServerSideTitle="true" title="Brooch Upgrade" name="Lady of the Lake">
 		<!-- Confirmed CT2.5 -->
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
@@ -295,7 +295,7 @@
 			<height normal="26.5" />
 		</collision>
 	</npc>
-	<npc id="606" level="70" type="L2Npc" name="Keucereus">
+	<npc id="606" level="70" displayId="33993" usingServerSideName="true" usingServerSideTitle="true" title="Talisman Upgrade" name="Keucereus">
 		<!-- Confirmed CT2.5 -->
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
