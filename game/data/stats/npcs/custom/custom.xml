@@ -295,7 +295,7 @@
 			<height normal="26.5" />
 		</collision>
 	</npc>
-	<npc id="606" level="70" displayId="33993" usingServerSideName="true" usingServerSideTitle="true" title="Talisman Upgrade" name="Keucereus">
+	<npc id="606" level="70" displayId="32548" usingServerSideName="true" usingServerSideTitle="true" title="Talisman Upgrade" name="Keucereus">
 		<!-- Confirmed CT2.5 -->
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />

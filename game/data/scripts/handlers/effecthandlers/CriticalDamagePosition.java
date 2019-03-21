@@ -41,12 +41,12 @@ public class CriticalDamagePosition extends AbstractEffect
 	@Override
 	public void onStart(L2Character effector, L2Character effected, Skill skill)
 	{
-		effected.getStat().mergePositionTypeValue(Stats.CRITICAL_DAMAGE, _position, (_amount / 100) + 1, MathUtil::mul);
+		effected.getStat().mergePositionTypeValue(Stats.CRITICAL_DAMAGE, _position, (_amount / 100.0) + 1.0, MathUtil::mul);
 	}
 	
 	@Override
 	public void onExit(L2Character effector, L2Character effected, Skill skill)
 	{
-		effected.getStat().mergePositionTypeValue(Stats.CRITICAL_DAMAGE, _position, (_amount / 100) + 1, MathUtil::div);
+		effected.getStat().mergePositionTypeValue(Stats.CRITICAL_DAMAGE, _position, (_amount / 100.0) + 1.0, MathUtil::div);
 	}
 }
