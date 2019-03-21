@@ -155,7 +155,7 @@
 			<height normal="21.5" />
 		</collision>
 	</npc>
-	<npc id="602" level="70" displayId="33993" usingServerSideName="true" usingServerSideTitle="true" title="Weapon Upgrade" name="Kain Van Halter">
+	<npc id="602" level="70" displayId="33027" usingServerSideName="true" usingServerSideTitle="true" title="Weapon Upgrade" name="Rotina">
 		<!-- Confirmed CT2.5 -->
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />

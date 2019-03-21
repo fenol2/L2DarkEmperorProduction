@@ -1019,8 +1019,8 @@
 					<value level="6">0</value>
 					<value level="7">0</value>
 					<value level="8">0</value>
-					<value level="9">5000</value>
-					<value level="10">7000</value>
+					<value level="9">10</value>
+					<value level="10">20</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
